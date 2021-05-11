@@ -6,7 +6,15 @@
 
     <groupId>com.dosea</groupId>
     <artifactId>java-god-like</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>my-JVM</module>
+        <module>my-collections</module>
+        <module>my-database</module>
+        <module>my-datastructure</module>
+    </modules>
 
 
 </project>
